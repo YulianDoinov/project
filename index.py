@@ -1,4 +1,4 @@
 def kkk():
-    print('Hello')
+    print('Hello kukushka')
 kkk()
 
