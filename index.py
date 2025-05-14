@@ -1,4 +1,2 @@
-def kkk():
-    print('Hello kukushka')
-kkk()
+print('I am a Middle Python Developer')
 
